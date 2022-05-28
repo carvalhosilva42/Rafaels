@@ -1,0 +1,53 @@
+{
+  "Carros": [
+    {
+      "id": 1,
+      "Placa": "Sebastian",
+      "Nome": "Eschweiler",
+      "QuantidadeVagas": 3
+    },
+    {
+      "id": 1,
+      "Placa": "Sebastian",
+      "Nome": "Eschweiler",
+      "QuantidadeVagas": 3
+    },
+    {
+      "id": 1,
+      "Placa": "Sebastian",
+      "Nome": "Eschweiler",
+      "QuantidadeVagas": 3
+    },
+    {
+      "id": 2
+    },
+    {
+      "Placa": "12345",
+      "Nome": "Fiat Uno",
+      "QuantidadeVagas": 4,
+      "id": 3
+    }
+  ],
+  "Viagens": [
+    {
+      "id": 1,
+      "DataSaida": "14/02/22",
+      "DataChegada": "14/02/22",
+      "HorarioSaida": "11:00",
+      "HorarioVoltaPrevista": "14:00",
+      "IdVeiculo": 1,
+      "VagasOcupadas": 3,
+      "TipoAtividade": "Operacional"
+    },
+    {
+      "id": 2,
+      "DataSaida": "14/02/22",
+      "DataChegada": "14/02/22",
+      "HorarioSaida": "11:00",
+      "HorarioVoltaPrevista": "14:00",
+      "IdVeiculo": 1,
+      "VagasOcupadas": 3,
+      "TipoAtividade": "Operacional"
+    }
+  ]
+}
